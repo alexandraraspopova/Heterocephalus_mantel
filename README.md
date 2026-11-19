@@ -1,4 +1,4 @@
-# Mantel tests for *Heliophobius glaber* population structure
+# Mantel tests for *Heterocephalus glaber* population structure
 
 A single script, `mantel_merged.py`, that runs all Mantel analyses used in the reviewer response:
 
